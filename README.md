@@ -33,7 +33,7 @@ The project is built using:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Tru3Bliss/Prediction-Market-Contract-Solana
+git clone https://github.com/morimura07/Prediction-Market-Contract-Solana
 cd solana-prediction-market
 ```
 
@@ -118,7 +118,3 @@ yarn script resolution -y <yes-token-address> -n <no-token-address> -e devnet -k
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
